@@ -1,0 +1,35 @@
+{
+  "name": "CAP_project05",
+  "version": "1.0.0",
+  "description": "A simple CAP project.",
+  "dependencies": {
+    "@cap-js/hana": "^2.7.0",
+    "@sap/cds": "^9",
+    "express": "^4"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^2"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  },
+  "private": true,
+  
+  "cds": {
+    "requires": {
+      "auth": {
+      "kind": "basic",
+      "users":{
+        "Admin": {
+          "password": "admin123",
+          "roles": ["Admin"]
+        },
+        "Dealer-1": {
+          "password": "dealer123",
+          "roles": ["Dealer"]
+        }
+      }
+    }
+  }
+}
+}

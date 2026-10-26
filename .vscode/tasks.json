@@ -1,0 +1,24 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "PreLaunchTask for Run dev-1",
+      "type": "shell",
+      "command": "mvn clean compile",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "dependsOn": [
+        "check port availability"
+      ]
+    },
+    {
+      "label": "check port availability",
+      "type": "shell",
+      "command": "${command:JAVA.runConfigurations.killProcess}",
+      "args": [
+        "${port:8080}"
+      ]
+    }
+  ]
+}

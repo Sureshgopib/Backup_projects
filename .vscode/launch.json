@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run dev-1",
+      "type": "java",
+      "request": "launch",
+      "args": [
+        "--spring.profiles.active=default"
+      ],
+      "mainClass": "customer.dev.Application",
+      "projectName": "dev",
+      "preLaunchTask": "PreLaunchTask for Run dev-1",
+      "cwd": "${workspaceFolder}/dev",
+      "envFile": "${workspaceFolder}/dev/env/.env1",
+      "env": {
+        "run.config": "{\"handlerId\":\"cap_java_run_config_handler_id\",\"runnableId\":\"{\\\"projectPath\\\":\\\"/home/user/projects/dev\\\",\\\"profileName\\\":\\\"default\\\"}\"}"
+      }
+    }
+  ]
+}

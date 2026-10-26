@@ -1,0 +1,7 @@
+ID,manufacturerCode,manufacturerName,email,phone,address,isActive,state_ID,createdAt,createdBy,modifiedAt,modifiedBy
+aaaaaaaa-1111-1111-1111-111111111111,MFG001,Royal Enfield,royalenfield@example.com,9876500001,Chennai Tamil Nadu,true,aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa,2026-10-01T08:30:00Z,admin,2026-10-01T08:30:00Z,admin
+bbbbbbbb-2222-2222-2222-222222222222,MFG002,Tata Motors,tatamotors@example.com,9876500002,Mumbai Maharashtra,true,eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeee,2026-10-01T08:45:00Z,admin,2026-10-01T08:45:00Z,admin
+cccccccc-3333-3333-3333-333333333333,MFG003,Mahindra Auto,mahindra@example.com,9876500003,Mumbai Maharashtra,true,eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeee,2026-10-01T09:00:00Z,admin,2026-10-01T09:00:00Z,admin
+dddddddd-4444-4444-4444-444444444444,MFG004,TVS Motor,tvs@example.com,9876500004,Hosur Tamil Nadu,true,aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa,2026-10-01T09:15:00Z,admin,2026-10-01T09:15:00Z,admin
+eeeeeeee-5555-5555-5555-555555555555,MFG005,Bajaj Auto,bajajauto@example.com,9876500005,Pune Maharashtra,true,eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeee,2026-10-01T09:30:00Z,admin,2026-10-01T09:30:00Z,admin
+ffffffff-6666-6666-6666-666666666666,MFG006,Hyundai Motor India,hyundai@example.com,9876500006,Chennai Tamil Nadu,true,aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa,2026-10-01T09:45:00Z,admin,2026-10-01T09:45:00Z,admin

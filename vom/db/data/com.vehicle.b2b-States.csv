@@ -1,0 +1,11 @@
+ID,stateId,stateCode,stateName,isActive,createdAt,createdBy,modifiedAt,modifiedBy
+aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa,ST001,TN,Tamil Nadu,true,2026-10-01T08:00:00Z,admin,2026-10-01T08:00:00Z,admin
+cccccccc-cccc-cccc-cccc-cccccccccccc,ST002,KA,Karnataka,true,2026-10-01T08:10:00Z,admin,2026-10-01T08:10:00Z,admin
+dddddddd-dddd-dddd-dddd-dddddddddddd,ST003,TS,Telangana,true,2026-10-01T08:20:00Z,admin,2026-10-01T08:20:00Z,admin
+eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeee,ST004,MH,Maharashtra,true,2026-10-01T08:30:00Z,admin,2026-10-01T08:30:00Z,admin
+ffffffff-ffff-ffff-ffff-ffffffffffff,ST005,DL,Delhi,true,2026-10-01T08:40:00Z,admin,2026-10-01T08:40:00Z,admin
+11111111-aaaa-aaaa-aaaa-aaaaaaaaaaaa,ST006,KL,Kerala,true,2026-10-01T08:50:00Z,admin,2026-10-01T08:50:00Z,admin
+22222222-aaaa-aaaa-aaaa-aaaaaaaaaaaa,ST007,GJ,Gujarat,true,2026-10-01T09:00:00Z,admin,2026-10-01T09:00:00Z,admin
+33333333-aaaa-aaaa-aaaa-aaaaaaaaaaaa,ST008,RJ,Rajasthan,true,2026-10-01T09:10:00Z,admin,2026-10-01T09:10:00Z,admin
+44444444-aaaa-aaaa-aaaa-aaaaaaaaaaaa,ST009,WB,West Bengal,true,2026-10-01T09:20:00Z,admin,2026-10-01T09:20:00Z,admin
+55555555-aaaa-aaaa-aaaa-aaaaaaaaaaaa,ST010,UP,Uttar Pradesh,true,2026-10-01T09:30:00Z,admin,2026-10-01T09:30:00Z,admin
